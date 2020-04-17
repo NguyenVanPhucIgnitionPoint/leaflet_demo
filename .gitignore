@@ -1,0 +1,31 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/OnetProject/OnetProject/bin
+/OnetProject/OnetProject/obj
+/OnetProject/OnetProject/OnetProject/bin
+/OnetProject/OnetProject/OnetProject/Migrations/SbDbContextModelSnapshot.cs
+/OnetProject/OnetProject/OnetProject/Migrations/20190807035535_InitialCreate.Designer.cs
+/OnetProject/OnetProject/OnetProject/Migrations/20190807035535_InitialCreate.cs
+/OnetProject/OnetProject/OnetProject/obj
+/OnetProject/OnetProject/.vs
+/.vs
+
+/OnetProject_Test/bin
+/OnetProject_Test/obj
+
+/OnetProject/OnetProject_Test/bin
+/OnetProject/OnetProject_Test/obj
+
+/bin
+/obj
+/OnetProject/bin
+/OnetProject/obj
+/OnetProject/OnetProject.csproj.user
+/docker-compose - コピー.yml
+/docker-compose.override - コピー.yml
+/OnetProject/Migrations
+/OnetProject/Dockerfile.original
+/OnetProject/appsettings.json
+/OnetProject/appsettings.Development.json
